@@ -1,4 +1,4 @@
-# laptop price prediction project
+# laptop price prediction using machine learning
 In this project I tackled a challenging regression problem using supervised machine learning techniques. The focus of this project was to predict laptop prices based on various key features, including RAM, memory, company name, processor, and more.
 
 To ensure accurate predictions, I performed extensive feature engineering and extraction techniques on the dataset, aiming to capture the most relevant information. This involved transforming raw features into meaningful representations that would enhance the model's predictive capabilities.
